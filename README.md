@@ -1,4 +1,10 @@
-Hi 👋 My name is Leen Alhejoj =============================  Computer Science Major ----------------------  I am a Computer Science student at the University of Illinois at Chicago. I enjoy creating fun and interesting projects using Python, C, and C++.  * 🌍  I'm based in Chicago, IL * ✉️  You can contact me at [l.alhejoj1@gmail.com](mailto:l.alhejoj1@gmail.com) * 🤝  I'm open to collaborating on Projects
+Hi 👋 My name is Leen Alhejoj
+
+Computer Science Major
+
+I am a Computer Science student at the University of Illinois at Chicago. I enjoy creating fun and interesting projects using Python, C, and C++.  
+
+* 🌍  I'm based in Chicago, IL * ✉️  You can contact me at [l.alhejoj1@gmail.com](mailto:l.alhejoj1@gmail.com) * 🤝  I'm open to collaborating on Projects
 
 ### Skills  
 
