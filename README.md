@@ -1,4 +1,4 @@
-Hi 👋 My name is Leen Alhejoj
+Hi 👋 My name is Leen A
 
 Computer Science Major
 
