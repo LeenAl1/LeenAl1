@@ -1,6 +1,6 @@
 Hi 👋 My name is Leen A
 
-Computer Science Major
+Computer Science Major, Software Engineer concentration 
 
 I am a Computer Science student at the University of Illinois at Chicago. I enjoy creating fun and interesting projects using Python, C, and C++.  
 
