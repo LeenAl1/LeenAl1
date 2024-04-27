@@ -17,4 +17,4 @@ I am a Computer Science student at the University of Illinois at Chicago. I enjo
 
 ### Badges
 
-<a href="https://github.com/LeenAl1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeenAl1&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeenAl1)](https://github.com/LeenAl1/github-readme-stats)
